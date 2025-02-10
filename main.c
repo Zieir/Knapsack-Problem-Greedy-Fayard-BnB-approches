@@ -11,7 +11,6 @@ int main() {
     printf("Enter the number of elements you want to input: ");
     scanf("%d", &n);
 
-    //Nanana on t'avait dit utilise pas des listes Blabla, cassez pas les couilles
     Object objects[n];
 
     for (int i = 0; i < n; i++) {
